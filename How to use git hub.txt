@@ -1,2 +1,7 @@
+***Normal Routine Upload of G: Drive File branch, commiting to this repo***
+git push
+git commit
+
+***If errors***
 git branch --unset-upstream
 git push --set-upstream origin master
