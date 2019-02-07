@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StartOrganizer
+comment0.text=\r\n\ StartOrganizer\ allows\ you\ to\ build\ calls\ to\ the\r\n\ \ Music\ Organiizer\ \r\n\ @author\ Lewin\r\n\ @version\ 1.0\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
