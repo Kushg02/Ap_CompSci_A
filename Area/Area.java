@@ -47,4 +47,8 @@ public class Area
         // put your code here
         System.out.println(length*width);
     }
+    public static void main(String args[]){
+        if("Sunday" = "saturday") 
+            System.out.println("Correct");
+    }
 }

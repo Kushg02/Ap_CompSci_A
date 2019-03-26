@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cow
+comment1.params=m
+comment1.target=void\ eat(Mammal)
+comment2.params=m
+comment2.target=void\ eat1(Mammal)
+numComments=3

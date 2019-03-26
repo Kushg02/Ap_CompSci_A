@@ -15,4 +15,6 @@ comment5.target=void\ setWidth(int)
 comment6.params=
 comment6.target=void\ showArea()
 comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
-numComments=7
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

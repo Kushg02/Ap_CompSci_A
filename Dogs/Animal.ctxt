@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Used\ to\ explain\ inheritance\ \r\n\r\n\ @author\ Lewin\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Animal()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Animal\r\n
+comment2.params=legs\ size\ color
+comment2.target=Animal(int,\ int,\ java.lang.String)
+comment3.params=speed
+comment3.target=void\ run(int)
+comment4.params=
+comment4.target=int\ getsize()
+comment5.params=
+comment5.target=int\ getLegs()
+comment6.params=sound
+comment6.target=void\ bark(int)
+numComments=7

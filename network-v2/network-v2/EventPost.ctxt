@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EventPost
+comment0.text=\r\n\ This\ class\ stores\ information\ about\ a\ post\ in\ a\ social\ network\ news\ feed.\ \r\n\ The\ main\ part\ of\ the\ post\ consists\ of\ a\ (possibly\ multi-line)\r\n\ text\ message.\ Other\ data,\ such\ as\ author\ and\ time,\ are\ also\ stored.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ 0.2\r\n
+comment1.params=author\ event\ location
+comment1.target=EventPost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ printShortSummary()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=java.lang.String\ getEvent()
+comment4.text=\r\n\ Return\ the\ text\ of\ this\ post.\r\n\ \r\n\ @return\ The\ post's\ message\ text.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getLocation()
+numComments=6

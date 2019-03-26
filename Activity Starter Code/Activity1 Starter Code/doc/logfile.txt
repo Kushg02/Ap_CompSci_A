@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code
+-d
+G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\CSACardTester.java
+<---- end of javadoc command ---->
+Loading source file G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\CSACardTester.java...
+Constructing Javadoc information...
+G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\CSACardTester.java:4: error: class CardTester is public, should be declared in a file named CardTester.java
+public class CardTester {
+       ^
+Standard Doclet version 1.8.0_131
+Building tree for all the packages and classes...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\CardTester.html...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\package-frame.html...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\package-summary.html...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\allclasses-frame.html...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\allclasses-noframe.html...
+Generating G:\Ap_CompSci_A\Activity Starter Code\Activity1 Starter Code\doc\index.html...
+1 warning
