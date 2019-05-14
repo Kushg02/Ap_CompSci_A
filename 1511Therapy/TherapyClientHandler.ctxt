@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TherapyClientHandler
+comment1.params=socket\ therapist
+comment1.target=TherapyClientHandler(java.net.Socket,\ Therapist)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

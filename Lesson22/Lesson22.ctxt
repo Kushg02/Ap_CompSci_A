@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lesson22
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Lesson22()
+comment3.params=number1\ number2\ howMany
+comment3.target=double\ addNumbers(double,\ double,\ int)
+comment4.params=number1\ number2\ howMany
+comment4.target=double\ subtractNumbers(double,\ double,\ int)
+comment5.params=number1\ number2\ howMany
+comment5.target=double\ multiplyNumbers(double,\ double,\ int)
+comment6.params=number1\ number2\ howMany
+comment6.target=double\ divideNumbers(double,\ double,\ int)
+numComments=7

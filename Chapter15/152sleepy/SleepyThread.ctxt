@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SleepyThread
+comment1.params=number\ sleepMax
+comment1.target=SleepyThread(int,\ int)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Therapist
+comment1.params=
+comment1.target=java.lang.String\ greeting()
+comment2.params=patientString
+comment2.target=java.lang.String\ reply(java.lang.String)
+numComments=3

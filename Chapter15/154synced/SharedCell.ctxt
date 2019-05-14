@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SharedCell
+comment1.params=
+comment1.target=SharedCell()
+comment2.params=data
+comment2.target=void\ setData(int)
+comment3.params=
+comment3.target=int\ getData()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Consumer
+comment1.params=accessCount\ cell
+comment1.target=Consumer(int,\ SharedCell)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
